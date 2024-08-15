@@ -2,7 +2,7 @@
 <hr>
 “Fed up with forgetting tasks? This is my todo list project designed to keep you on track and remind you of your work efficiently.”
 <hr>
-<b>Live Deployment:</b> [Check out the live version here!](https://agrawalaman02.github.io/todoList/)
+<b>Live Deployment:</b> Check out the live version here!  https://agrawalaman02.github.io/todoList/
 
 <hr>
 ---
